@@ -1,0 +1,57 @@
+country_code:
+  iso_alpha2: CM
+  iso_alpha3: CMR
+  iso_numeric: 120
+  osm_id: 192830
+  wikidata_id: 1009
+name: République du Cameroun
+name_en: Cameroon
+jurisdiction_isolabel:
+  level2: {"name":"Région","name_en":"Region","n":10,"alternateName":"Estado","alternateName_en":"State"}
+  level3: {"name":"Département","name_en":"Department","n":58}
+  level4: {"name":"Arrondissement","name_en":"Arrondissement","n":360}
+
+geo_uri: geo:7,12
+
+postal_code:
+  label:
+  name:
+  wikidata_id:
+  is_open:
+  url_search:
+  url_dataset:
+postal_code_alternateSource:
+  name:
+  git_url:
+  is_translator:
+  license:
+
+osmCode_status:
+  official: no
+  offical_forum: no
+  competitors: PlusCodes, OLC, Geohash
+  proposal_status: testing
+  proposal_local_adoption:
+
+osmCode_definition:
+  srid: 102022
+  grid_xy_origin: -1745000 170000
+  grid_cell_side: 262144
+  grid_lc: 4 6
+  grid_l0_cell: 0 1 2 3 10 11 12 20 21 22 31 32 42 52
+  grid_l0_cell_sci_base: b c d e 8 9 a 5 6 7 3 4 2 1
+  sci_base: 16h
+  sci_sep: +
+  sci_size_min: 1
+  sci_size_max: 10
+  log_base:
+  log_sep:
+  sci_size_min:
+  sci_size_max:
+
+srid_official:
+  equalarea: 102022
+  utm_zones: {"32":32632,"33":32633}
+utm_grid_cover: 32N 32P 33N 33P
+
+local_srid_def:
