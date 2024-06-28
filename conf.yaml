@@ -14,49 +14,30 @@ jurisdiction_isolabel:
 
 geo_uri: geo:7,12
 
-postal_code:
-  label:
-  name:
-  wikidata_id:
-  is_open:
-  url_search:
-  url_dataset:
-
-postal_code_alternateSource:
-  name:
-  git_url:
-  is_translator:
-  license:
-
-osmCode_status:
+afaCode_status:
   official: no
   offical_forum: no
   competitors: PlusCodes, OLC, Geohash
   proposal_status: testing
   proposal_local_adoption:
 
-osmCode_definition:
+afaCode_definition:
   srid: 32632
   grid_xy_origin: 408600 164150
   grid_cell_side: 262144
-  grid_lc: 4 6
   grid_l0_cell: 0 1 2 3 10 11 12 20 21 22 23 31 32 33 42
   grid_l0_cell_sci_base: c d e f 9 a b 5 6 7 8 2 3 4 1
-  eez_in_l0_coverage: no
   territorial_sea_in_l0_coverage: no
+  eez_in_l0_coverage: no
   sci_base: 16h
   sci_sep: +
   sci_size_min: 1
   sci_size_max: 10
-  log_base:
-  log_sep:
-  sci_size_min:
-  sci_size_max:
+  log_base: 32nvu
+  log_sep:  ~
 
 srid_official:
-  equalarea: 102022
+  equalarea:
   utm_zones: {"32":32632,"33":32633}
 
 utm_grid_cover: 32N 32P 33N 33P
-
-local_srid_def:
