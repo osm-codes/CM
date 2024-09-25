@@ -22,7 +22,7 @@ t,5,CM-AD-Belel,cm;ad;bll,2024-09-12,f
 t,5,CM-AD-Belel,cm;adamaoua;belel,2024-09-12,f
 t,5,CM-AD-Dir,CM-10302,2024-09-12,f
 t,5,CM-AD-Dir,CM-DIR,2024-09-12,t
-t,5,CM-AD-Dir,CM-Dir,2024-09-12,t
+t,5,CM-AD-Dir,CM-Dir,2024-09-12,f
 t,5,CM-AD-Dir,cm;ad;dir,2024-09-12,f
 t,5,CM-AD-Dir,cm;adamaoua;dir,2024-09-12,f
 t,5,CM-AD-Djohong,CM-10303,2024-09-12,f
@@ -63,7 +63,7 @@ t,5,CM-AD-MayoDarle,cm;ad;mde,2024-09-12,f
 t,5,CM-AD-MayoDarle,cm;adamaoua;mayo.darle,2024-09-12,f
 t,5,CM-AD-Mbe,CM-10102,2024-09-12,f
 t,5,CM-AD-Mbe,CM-MBE,2024-09-12,t
-t,5,CM-AD-Mbe,CM-Mbe,2024-09-12,t
+t,5,CM-AD-Mbe,CM-Mbe,2024-09-12,f
 t,5,CM-AD-Mbe,cm;ad;mbe,2024-09-12,f
 t,5,CM-AD-Mbe,cm;adamaoua;mbe,2024-09-12,f
 t,5,CM-AD-Meiganga,CM-10301,2024-09-12,f
@@ -492,12 +492,12 @@ t,5,CM-CE-Ombessa,cm;ce;ombessa,2024-09-12,f
 t,5,CM-CE-Ombessa,cm;centre;ombessa,2024-09-12,f
 t,5,CM-CE-Saa,CM-20602,2024-09-12,f
 t,5,CM-CE-Saa,CM-SAA,2024-09-12,t
-t,5,CM-CE-Saa,CM-Saa,2024-09-12,t
+t,5,CM-CE-Saa,CM-Saa,2024-09-12,f
 t,5,CM-CE-Saa,cm;ce;saa,2024-09-12,f
 t,5,CM-CE-Saa,cm;centre;saa,2024-09-12,f
 t,5,CM-CE-Soa,CM-20904,2024-09-12,f
 t,5,CM-CE-Soa,CM-SOA,2024-09-12,t
-t,5,CM-CE-Soa,CM-Soa,2024-09-12,t
+t,5,CM-CE-Soa,CM-Soa,2024-09-12,f
 t,5,CM-CE-Soa,cm;ce;soa,2024-09-12,f
 t,5,CM-CE-Soa,cm;centre;soa,2024-09-12,f
 t,5,CM-CE-Yaounde1,CM-20101,2024-09-12,f
@@ -1396,7 +1396,7 @@ t,5,CM-NW,cm;nord.ouest,2024-09-12,f
 t,5,CM-NW,cm;nw,2024-09-12,f
 t,5,CM-NW-Ako,CM-60303,2024-09-12,f
 t,5,CM-NW-Ako,CM-AKO,2024-09-12,t
-t,5,CM-NW-Ako,CM-Ako,2024-09-12,t
+t,5,CM-NW-Ako,CM-Ako,2024-09-12,f
 t,5,CM-NW-Ako,cm;nord.ouest;ako,2024-09-12,f
 t,5,CM-NW-Ako,cm;nw;ako,2024-09-12,f
 t,5,CM-NW-Andek,CM-60404,2024-09-12,f
@@ -1530,7 +1530,7 @@ t,5,CM-NW-Ndop,cm;nw;ndop,2024-09-12,f
 t,5,CM-NW-Ndop,cm;nw;ndp,2024-09-12,f
 t,5,CM-NW-Ndu,CM-60304,2024-09-12,f
 t,5,CM-NW-Ndu,CM-NDU,2024-09-12,t
-t,5,CM-NW-Ndu,CM-Ndu,2024-09-12,t
+t,5,CM-NW-Ndu,CM-Ndu,2024-09-12,f
 t,5,CM-NW-Ndu,cm;nord.ouest;ndu,2024-09-12,f
 t,5,CM-NW-Ndu,cm;nw;ndu,2024-09-12,f
 t,5,CM-NW-Nijkwa,CM-60403,2024-09-12,f
@@ -1565,7 +1565,7 @@ t,5,CM-NW-Nkum,cm;nw;nku,2024-09-12,f
 t,5,CM-NW-Nkum,cm;nw;nkum,2024-09-12,f
 t,5,CM-NW-Nwa,CM-60302,2024-09-12,f
 t,5,CM-NW-Nwa,CM-NWA,2024-09-12,t
-t,5,CM-NW-Nwa,CM-Nwa,2024-09-12,t
+t,5,CM-NW-Nwa,CM-Nwa,2024-09-12,f
 t,5,CM-NW-Nwa,cm;nord.ouest;nwa,2024-09-12,f
 t,5,CM-NW-Nwa,cm;nw;nwa,2024-09-12,f
 t,5,CM-NW-Santa,CM-60105,2024-09-12,f
@@ -1588,7 +1588,7 @@ t,5,CM-NW-WidikumBoffe,cm;nw;wid,2024-09-12,f
 t,5,CM-NW-WidikumBoffe,cm;nw;widikum.boffe,2024-09-12,f
 t,5,CM-NW-Wum,CM-60501,2024-09-12,f
 t,5,CM-NW-Wum,CM-WUM,2024-09-12,t
-t,5,CM-NW-Wum,CM-Wum,2024-09-12,t
+t,5,CM-NW-Wum,CM-Wum,2024-09-12,f
 t,5,CM-NW-Wum,cm;nord.ouest;wum,2024-09-12,f
 t,5,CM-NW-Wum,cm;nw;wum,2024-09-12,f
 t,5,CM-NW-Zhoa,CM-60503,2024-09-12,f
