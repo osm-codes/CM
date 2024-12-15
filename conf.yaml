@@ -36,6 +36,7 @@ afaCode_definition:
   sci_size_max: 10
   log_base: 32nvu
   log_sep:  ~
+  intlevel: 60
 
 srid_official:
   equalarea:
