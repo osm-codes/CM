@@ -20,7 +20,7 @@ afaCode_status:
   proposal_status: testing
   proposal_local_adoption:
 
-afaCode_definition:
+dngs_definition:
   srid: 32632
   grid_x0y0: 408600 164150
   grid_cell_side: 262144

@@ -25,7 +25,7 @@ For administrative purposes, the national territory and its subdivisions represe
 
 [Geocodes based on regular hierarchical grids](https://en.wikipedia.org/wiki/Geocode#Hierarchical_grids) can be encoded and decoded from latitude-longitude coordinates. They adhere to the [DNGS standard - Discrete National Grid Systems](https://inde.gov.br/simposio-16-anos/), a variation of the [ISO DGGS standard](https://www.iso.org/standard/32588.html) designed for national rather than global requirements.
 
-Grid AFA Codes follow the DNGS standard. For Cameroon, they are defined in the `afaCode_definition` parameter in the [`conf.yaml` configuration file](conf.yaml). The grid system uses a refinement ratio of 2, subdividing parent cells into child cells. It starts with 16 squares, each 262.144 km on a side, covering Cameroon’s territory, as illustrated below. As "power of 2" codes, they are expressed using hexadecimal-like codes (*base 16h* representation).
+Grid AFA Codes follow the DNGS standard. For Cameroon, they are defined in the `dngs_definition` parameter in the [`conf.yaml` configuration file](conf.yaml). The grid system uses a refinement ratio of 2, subdividing parent cells into child cells. It starts with 16 squares, each 262.144 km on a side, covering Cameroon’s territory, as illustrated below. As "power of 2" codes, they are expressed using hexadecimal-like codes (*base 16h* representation).
 
 ![](data-CC0/gridCover-illustrated1.png)
 
